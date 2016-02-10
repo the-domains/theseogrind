@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T19:44:45.372Z'
-dateModified: '2016-02-10T19:44:44.599Z'
+datePublished: '2016-02-10T19:46:00.468Z'
+dateModified: '2016-02-10T19:45:57.126Z'
 title: Search Engine Optimization for people like us.
 author: []
 sourcePath: _posts/2016-02-10-search-engine-optimization-for-people-like-us.md
@@ -34,10 +34,10 @@ You need to understand what SEO is so you can protect your business and get the 
 
 ## theSEOgrind will help you to:
 
-* understand basic SEO terminology and principles.
+understand basic SEO terminology and principles.
 
-* be familiar with up-to-date SEO tactics and avoid black hat practices.
+be familiar with up-to-date SEO tactics and avoid black hat practices.
 
-* know how to make Social Media work for you, and understand its connection to SEO.
+know how to make Social Media work for you, and understand its connection to SEO.
 
-* have the tools necessary for measuring your success.
+have the tools necessary for measuring your success.
