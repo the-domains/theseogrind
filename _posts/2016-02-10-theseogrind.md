@@ -6,10 +6,10 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-10T18:19:23.071Z'
-dateModified: '2016-02-10T18:18:54.099Z'
-title: Search Engine Optimization for people like us
+description: Search Engine Optimization for people like us
+datePublished: '2016-02-10T18:21:39.162Z'
+dateModified: '2016-02-10T18:21:27.931Z'
+title: Search Engine Optimization for people like us.
 author: []
 sourcePath: _posts/2016-02-10-theseogrind.md
 published: true
@@ -22,6 +22,8 @@ publisher:
 _type: Blurb
 
 ---
+# Search Engine Optimization for people like us.
+
 Of course you know that Search Engine Optimization is important for your website. You know that it will help you be found by new potential customers, it will get you on the first page of Google, bla bla bla. But what does it all really mean? What is SEO? How does it work? Do I have to pay in blood to get good search engine rankings?
 
 These are all questions that I've heard before, and ones that I'm sure you've asked at some point. the SEO grind is all about busting SEO myths, giving you an understanding of SEO principles, and putting the tools in your hands.
