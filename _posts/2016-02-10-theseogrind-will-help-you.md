@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T17:42:03.093Z'
-dateModified: '2016-02-10T17:41:56.927Z'
+datePublished: '2016-02-10T17:43:40.609Z'
+dateModified: '2016-02-10T17:43:37.678Z'
 title: 'theSEOgrind will help you:'
 author: []
 sourcePath: _posts/2016-02-10-theseogrind-will-help-you.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-* understand basic SEO terminology and principles.
+* * understand basic SEO terminology and principles.
 
 * be familiar with up-to-date SEO tactics and avoid black hat practices.
 
