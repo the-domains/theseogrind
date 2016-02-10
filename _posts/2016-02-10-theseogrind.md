@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T18:17:27.810Z'
-dateModified: '2016-02-10T18:17:21.591Z'
+datePublished: '2016-02-10T18:19:23.071Z'
+dateModified: '2016-02-10T18:18:54.099Z'
 title: Search Engine Optimization for people like us
 author: []
 sourcePath: _posts/2016-02-10-theseogrind.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: theseogrind/index.html
-_type: Article
+_type: Blurb
 
 ---
 Of course you know that Search Engine Optimization is important for your website. You know that it will help you be found by new potential customers, it will get you on the first page of Google, bla bla bla. But what does it all really mean? What is SEO? How does it work? Do I have to pay in blood to get good search engine rankings?
